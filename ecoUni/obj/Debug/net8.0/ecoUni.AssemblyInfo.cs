@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ecoUni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92039b9fdb89db75ee22873de14bef05bc10d03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ecoUni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ecoUni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
