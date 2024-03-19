@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|c:\\users\\zoomk\\source\\repos\\ecouni\\ecouni\\repositories\\coletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\repositories\\coletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|c:\\users\\zoomk\\source\\repos\\ecouni\\ecouni\\repositories\\interfaces\\icoletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\repositories\\interfaces\\icoletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|c:\\users\\zoomk\\source\\repos\\ecouni\\ecouni\\ecouni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\ecouni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|c:\\users\\zoomk\\source\\repos\\ecouni\\ecouni\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -67,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|c:\\users\\zoomk\\source\\repos\\ecouni\\ecouni\\ecouni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\ecouni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|c:\\users\\zoomk\\source\\repos\\ecouni\\ecouni\\models\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE94C3F2-CB83-4A2F-A12B-4C37C2A24F14}|ecoUni\\ecoUni.csproj|solutionrelative:ecouni\\models\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -115,6 +123,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ColetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Repositories\\ColetaRepository.cs",
+              "RelativeDocumentMoniker": "ecoUni\\Repositories\\ColetaRepository.cs",
+              "ToolTip": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Repositories\\ColetaRepository.cs",
+              "RelativeToolTip": "ecoUni\\Repositories\\ColetaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:16:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IColetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUNI\\ecoUni\\Repositories\\Interfaces\\IColetaRepository.cs",
+              "RelativeDocumentMoniker": "ecoUni\\Repositories\\Interfaces\\IColetaRepository.cs",
+              "ToolTip": "C:\\Users\\zoomk\\source\\repos\\ecoUNI\\ecoUni\\Repositories\\Interfaces\\IColetaRepository.cs",
+              "RelativeToolTip": "ecoUni\\Repositories\\Interfaces\\IColetaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:13:56.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Login\\Index.cshtml",
@@ -127,20 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ecoUni\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ecoUni\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T23:09:06.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Login\\Login.cshtml",
@@ -148,12 +169,11 @@
               "RelativeToolTip": "ecoUni\\Views\\Login\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T23:07:50.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T23:07:50.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Program.cs",
               "RelativeDocumentMoniker": "ecoUni\\Program.cs",
@@ -161,12 +181,11 @@
               "RelativeToolTip": "ecoUni\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T00:03:33.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T00:03:33.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Home\\Index.cshtml",
@@ -174,12 +193,11 @@
               "RelativeToolTip": "ecoUni\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T00:05:52.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T00:05:52.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ecoUni\\Controllers\\HomeController.cs",
@@ -187,12 +205,36 @@
               "RelativeToolTip": "ecoUni\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:25:17.535Z",
+              "WhenOpened": "2024-03-17T18:25:17.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ecoUni.csproj",
+              "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUNI\\ecoUni\\ecoUni.csproj",
+              "RelativeDocumentMoniker": "ecoUni\\ecoUni.csproj",
+              "ToolTip": "C:\\Users\\zoomk\\source\\repos\\ecoUNI\\ecoUni\\ecoUni.csproj",
+              "RelativeToolTip": "ecoUni\\ecoUni.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T00:00:04.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ecoUni\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ecoUni\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:09:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Teste\\Index.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Teste\\Index.cshtml",
@@ -200,12 +242,11 @@
               "RelativeToolTip": "ecoUni\\Views\\Teste\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T18:03:12.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T18:03:12.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Demo.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Teste\\Demo.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Teste\\Demo.cshtml",
@@ -213,12 +254,11 @@
               "RelativeToolTip": "ecoUni\\Views\\Teste\\Demo.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T18:04:13.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T18:04:13.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Demo.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Home\\Demo.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Home\\Demo.cshtml",
@@ -226,12 +266,11 @@
               "RelativeToolTip": "ecoUni\\Views\\Home\\Demo.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T18:26:29.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T18:26:29.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Shared\\_Layout.cshtml",
@@ -239,12 +278,11 @@
               "RelativeToolTip": "ecoUni\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T00:06:03.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T00:06:03.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\_ViewImports.cshtml",
@@ -252,12 +290,11 @@
               "RelativeToolTip": "ecoUni\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T23:10:06.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T23:10:06.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\_ViewStart.cshtml",
@@ -265,12 +302,11 @@
               "RelativeToolTip": "ecoUni\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T23:10:08.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T23:10:08.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20240318004116_PopularUsuario.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Migrations\\20240318004116_PopularUsuario.cs",
               "RelativeDocumentMoniker": "ecoUni\\Migrations\\20240318004116_PopularUsuario.cs",
@@ -278,24 +314,11 @@
               "RelativeToolTip": "ecoUni\\Migrations\\20240318004116_PopularUsuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T00:41:16.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T00:41:16.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ecoUni.csproj",
-              "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUNI\\ecoUni\\ecoUni.csproj",
-              "RelativeDocumentMoniker": "ecoUni\\ecoUni.csproj",
-              "ToolTip": "C:\\Users\\zoomk\\source\\repos\\ecoUNI\\ecoUni\\ecoUni.csproj",
-              "RelativeToolTip": "ecoUni\\ecoUni.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-12T00:00:04.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Coleta.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Models\\Coleta.cs",
               "RelativeDocumentMoniker": "ecoUni\\Models\\Coleta.cs",
@@ -307,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "TesteController.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Controllers\\TesteController.cs",
               "RelativeDocumentMoniker": "ecoUni\\Controllers\\TesteController.cs",
@@ -315,12 +338,11 @@
               "RelativeToolTip": "ecoUni\\Controllers\\TesteController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:01:13.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T18:01:13.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ecoUni\\Models\\Usuario.cs",
@@ -332,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\appsettings.json",
               "RelativeDocumentMoniker": "ecoUni\\appsettings.json",
@@ -344,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ecoUni\\Context\\AppDbContext.cs",
@@ -356,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ecoUni\\Properties\\launchSettings.json",
@@ -368,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Shared\\_Layout.cshtml.css",
@@ -380,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ecoUni\\wwwroot\\js\\site.js",
@@ -392,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -404,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ecoUni\\Views\\Shared\\Error.cshtml",
@@ -416,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\zoomk\\source\\repos\\ecoUni\\ecoUni\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ecoUni\\wwwroot\\css\\site.css",
